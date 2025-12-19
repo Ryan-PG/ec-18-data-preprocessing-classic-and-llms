@@ -6,7 +6,8 @@ This repository contains all the materials from the **Epoch Club** session on **
 
 You can watch the video of the session on YouTube as soon as it is released. 
 
-[![VIDEO TITLE)](https://img.youtube.com/vi/ejaBF463Nt0/0.jpg)](https://www.youtube.com/watch?v=ejaBF463Nt0&list=PLwUWEGKy5kyMFKAqXh4D8tkd8jrDXcw6i&index=8)
+[![VIDEO TITLE)](https://img.youtube.com/vi/4Ml6udcvnBw/0.jpg)](https://www.youtube.com/watch?v=4Ml6udcvnBw&list=PLwUWEGKy5kyNrPv05-Asbhm6g6S8_eRPb&index=24)
+
 
 ## Features
 
